@@ -13,4 +13,5 @@ A simple [Svelte.js](https://svelte.dev/) project that demonstrates how to manip
 
 # Related Projects
 -  [Bulma Basics](https://github.com/TylrPopcorn/Bulma-Basics) - *Learn the basics of Bulma*
+-  [Doggo Search](https://github.com/TylrPopcorn/Doggo-Form) - *View breeds of dogs using React.js Class Components!*
 -  [Projects List](https://github.com/TylrPopcorn/Projects-List) - *Explore other projects I have worked on*
